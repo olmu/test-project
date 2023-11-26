@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Customers]
+(
+	[Id] VARCHAR(36) NOT NULL PRIMARY KEY
+)
